@@ -1,4 +1,4 @@
-const { addNewUser, fetchAllUsers } = require('../services/user.service.js');
+const { addNewUser, fetchAllUsers } = require('../services/user.servie.js');
 
 const addUserController = async (req, res) => {
     try {
